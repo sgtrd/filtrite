@@ -19,3 +19,6 @@ https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscrip
 # Annoyances filter
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+
+# Twitter Declutter
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/TwitterPureReadingExperience.txt
